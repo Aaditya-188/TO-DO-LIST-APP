@@ -1,18 +1,18 @@
-To-Do List Project
+## To-Do List Project
 
-Introduction
+## Introduction
 
 -This project will involve building a To-Do List application using React and TypeScript. It focuses on implementing various aspects of modern web development, including GitFlow workflow, component reusability, state management, API calls, and CRUD operations on the frontend.
 
-Requirements
+## Requirements
 
-GitFlow Workflow
+## GitFlow Workflow
 
 -The project should follows the GitFlow branching model, with branches for feature development, release preparation, hot-fixes, and version tags.
 -It Utilize Git commands effectively for branching, committing, merging, and handling conflicts.
 -It provides clear and concise commit messages to track changes and updates.
 
-Component Reusability
+## Component Reusability
 
 -It Implement reusable components to promote code efficiency and maintainability. Identify common UI elements and create components that can be reused across different parts of the application.
 -It Utilizes props and state effectively to make components flexible and customizable. State Management
@@ -20,7 +20,7 @@ Component Reusability
 -It Implements state management using a library such as Redux or React Context API. Centralize application state to manage data flow and ensure consistency across components.
 The project demonstrates how to handle state updates efficiently to reflect changes in the UI without unnecessary re-renders.
 
-API Calls
+## API Calls
 
 -It utilizes the Integration API calls to fetch, create, update, and delete To-Do list items. Utilize asynchronous JavaScript techniques such as promises or async/await to handle API requests.
 -It Implements error handling to gracefully manage network failures or server errors.
@@ -29,7 +29,7 @@ CRUD Operations on the Frontend
 -It has complete user interfaces for adding, viewing, updating, and deleting To-Do list items.
 -There is seamless interaction with the backend API to perform CRUD operations.
 
-Technologies used
+## Technologies used
 
 -React: JavaScript library for building user interfaces.
 -TypeScript: Superset of JavaScript that adds static typing to the language.
@@ -38,4 +38,4 @@ Technologies used
 -RESTful API: Backend API for handling CRUD operations on To-Do list items. Deliverables
 -Git repository containing the project codebase with clear commit history.
 
-Demo-https://aaditya-to-do-task.netlify.app/
+## Demo-https:https://aaditya-todo-task.netlify.app/
